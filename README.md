@@ -1,6 +1,7 @@
 ### WELCOME TO THE ABYSS
-just sharing whatever code i somehow made or edited\
-stay FOSS
+just sharing whatever code i somehow made or edited.\
+i love linux, using ArcoLinux currently.\
+stay FOSS!
 <!--
 **AbdelrhmanNile/AbdelrhmanNile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
