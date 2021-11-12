@@ -1,5 +1,5 @@
 ### WELCOME TO THE ABYSS
-just sharing whatever
+just sharing whatever code i somehow made or edited\
 stay FOSS
 <!--
 **AbdelrhmanNile/AbdelrhmanNile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
