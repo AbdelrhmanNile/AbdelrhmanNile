@@ -2,6 +2,10 @@
 just sharing whatever code i somehow made or edited.\
 i love linux, using ArcoLinux currently.\
 stay FOSS!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanNile&show_icons=true&theme=onedark)
+
+
 <!--
 **AbdelrhmanNile/AbdelrhmanNile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
